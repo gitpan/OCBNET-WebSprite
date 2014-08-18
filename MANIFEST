@@ -9,6 +9,10 @@ META.yml
 README.md
 bin/websprite
 lib/OCBNET/CSS3/Styles/WebSprite.pm
+lib/OCBNET/Image.pm
+lib/OCBNET/Image/GD.pm
+lib/OCBNET/Image/GM.pm
+lib/OCBNET/Image/IM.pm
 lib/OCBNET/Packer/2D.pm
 lib/OCBNET/WebSprite.pm
 lib/OCBNET/WebSprite/Block.pm
